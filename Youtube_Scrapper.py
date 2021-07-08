@@ -2,7 +2,7 @@
 """
 Created on Fri Apr  9 23:33:55 2021
 
-@author: Eben Emmanuel && Rupal Dsouza
+@author: Eben Emmanuel
 """
 
 import time
